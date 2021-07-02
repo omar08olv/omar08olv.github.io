@@ -1,6 +1,5 @@
 ## Bienvenido a mi pagina de GitHub
-
-  ### FELIZ DIA!!!
+### FELIZ DIA!!!
 
 You can use the [editor on GitHub](https://github.com/omar08olv/omar08olv.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
